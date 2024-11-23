@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -->
 
 ## 💫 About Me:
-I am a passionate IT students who thrives to do their best by learning new languages, technologies...<br>🔭 I’m currently working on a MERN project<br>🤝 I’m looking for help with<br>🌱 I’m currently learning java, python, data structures & algorithms, R and data analytics<br>💬 Ask me about python and java<br>⚡ Fun fact I am an anime lover
+I am a passionate IT students who thrives to do their best by learning new languages, technologies, concepts...<br>🔭 I’m currently working on learning new concepts<br>🤝 I’m looking for collabrate with awesome projects<br>🌱 I’m currently learning python, AI, ML, PwerBI<br>💬 Ask me about python and java<br>⚡ Fun fact I am an anime lover
 
 
 ## 🌐 Socials:
