@@ -43,9 +43,10 @@ I am a passionate IT students who thrives to do their best by learning new langu
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pratheesha100&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratheesha100&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pratheesha100&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
+-->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
